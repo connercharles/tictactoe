@@ -1,0 +1,44 @@
+.hall-of-fame {
+    text-align: center;
+}
+
+.hall-of-fame-container {
+    padding: 20px;
+}
+  
+.statistics {
+    margin-bottom: 20px;
+}
+  
+.statistics h3 {
+    margin-top: 0;
+}
+
+.statistics ul {
+    list-style: none;
+    padding: 0;
+}
+
+.statistics li {
+    margin-bottom: 5px;
+}
+
+.hall-of-fame-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.hall-of-fame-table th,
+.hall-of-fame-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.hall-of-fame-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.hall-of-fame-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

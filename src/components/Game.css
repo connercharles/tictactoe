@@ -1,0 +1,27 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.new-game-button {
+    margin-top: 20px;
+    background-color: #797596;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+.new-game-button:hover {
+    background-color: #646080;
+}
+  
+.new-game-button .icon {
+    margin-right: 8px;
+} 
+  
